@@ -39,6 +39,7 @@ while playing:
     else:
         print("You lose! he he!")
 
+    
     if not input("Play again? (y/n): ").lower() == "y":
         playing = False
 
